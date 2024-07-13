@@ -11,10 +11,12 @@ topics:
   - date-time
 
 environment:
-  sdk: ">=3.0.2 <4.0.0"
+  sdk: ">=3.0.6 <4.0.0"
 
 dependencies:
   flutter:
+    sdk: flutter
+  flutter_localizations:
     sdk: flutter
   intl: 0.19.0
 
